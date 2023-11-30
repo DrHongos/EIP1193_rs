@@ -1,5 +1,13 @@
 EIP1193
 ==========
+Forked from https://github.com/ZeroProphet/EIP1193_rs/
+-- TODO:
+- event listener        < 
+- improve example
+- handle Provider locally
+- parse it to alloy
+
+-- added:
 
 ## TL;DR
 
