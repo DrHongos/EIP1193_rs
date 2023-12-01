@@ -19,6 +19,7 @@ pub struct Provider {
     pub on: Function,       // Events
 }
 
+#[wasm_bindgen]
 #[derive(Serialize, Deserialize, Debug)]
 pub struct RequestMethod {
     method: String,
